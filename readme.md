@@ -1,14 +1,14 @@
 # Terms of Service
 
 ## Introduction
-These Terms of Service ("Terms") govern your use of the **Prime Bot** on Discord. By using our bot, you agree to comply with and be bound by these Terms.
+These Terms of Service ("Terms") govern your use of the **Activities Boat** on Discord. By using our bot, you agree to comply with and be bound by these Terms.
 
 ## 1. Bot Usage
-- **Command Access**: The only available command for Prime is `/activity`, which allows users to start activities in Discord voice channels.
+- **Command Access**: The only available command for Activities Boat is `/activity`, which allows users to start activities in Discord voice channels.
 - **Limitations**: The bot will only start activities in voice channels that are available in the server. If permissions are not sufficient, the bot may not be able to start the activity.
 
 ## 2. Prohibited Uses
-By using the Prime Bot, you agree not to:
+By using the Activities Boat, you agree not to:
 - Use the bot for any unlawful, harmful, or fraudulent activities.
 - Attempt to exploit or reverse-engineer the bot's functionality.
 - Interfere with the proper operation of the bot or its features.
